@@ -6,4 +6,4 @@
 
 # Languages
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AimchuDev&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aimchu)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AimchuDev)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
