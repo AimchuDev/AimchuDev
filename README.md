@@ -6,6 +6,6 @@
 
 # Stats
 <p align = "center">
-    <img src = "![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DexHubDev&theme=radical)"/>
+    <img src = "[GitHub Stats](https://github-readme-stats.vercel.app/api?username=DexHubDev&theme=radical)"/>
     <img src = ""/>
 </p>
